@@ -24,7 +24,6 @@
     <li><a href="#how-to-works">How to Works</a></li>
     <li><a href="#next-step">Next Step</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#reference">Reference</a></li>
   </ol>
   </p>
 </details>
@@ -84,9 +83,6 @@ In the next step, we can carry out the packaging and deploying code to be implem
 
 ## License
 MIT
-
-## Reference
-[1] [Recommendation System Series](https://towardsdatascience.com/recsys-series-part-4-the-7-variants-of-matrix-factorization-for-collaborative-filtering-368754e4fab5)
 
 <p align="right">(<a href="#automed-forecasting">back to top</a>)</p>
 

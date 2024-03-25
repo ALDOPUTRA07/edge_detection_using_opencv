@@ -38,7 +38,7 @@ This project is one part of the information extraction process on image document
 
 This project will perform edge detection for an ID card (such as a KTP). Edge detection is an image-processing technique that is used to identify the boundaries (edges) of objects or regions within an image. After getting the boundaries (edges) of objects, we crop according to these edges so that we can carry out the next stage, namely information extraction in the image document.
 
-This project will use the OpenCV library to perform edge detection.
+This project uses the OpenCV library to perform edge detection.
 
 **Note:** This project is still in Jupyter Notebook. The next step is to carry out the packaging and deploying code process.
 
